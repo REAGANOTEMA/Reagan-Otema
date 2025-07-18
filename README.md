@@ -49,7 +49,7 @@ Currently pursuing a degree in **Software Development** at **BYU–Idaho**, I wo
 
 ---
 
-### 💻 Team Collaboration Platform — Agile, Real-Time, Scalable
+### 💻 Team Collaboration Platform, Agile, Real-Time, Scalable
 
 <p align="center">
   <img src="images/software-development-project.png" alt="Team Project Screenshot" width="85%" style="border-radius: 12px;" />
@@ -99,8 +99,8 @@ I specialize in **React** and **Vue.js** for frontend magic, with **Node.js**, *
 </p>
 
 
-Each photo captures a moment: deep in code, in sync with a team, or chasing that breakthrough idea.  
-**This isn’t just my work — it’s my craft.**
+Each photo captures a moment: deep in code, United and in sync with a team, chasing that breakthrough idea.  
+**This isn’t just my work it’s also my and team work.**
 
 ---
 
@@ -131,8 +131,8 @@ Let’s talk code, design, or the next big idea.
 
 ## ✨ Words I Live By
 
-> _“The best way to predict the future is to invent it.”_  
-> — Alan Kay
+> The best way to predict the future is to invent it. 
+> By - Alan Kay
 
 ---
 
