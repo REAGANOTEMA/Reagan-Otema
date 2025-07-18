@@ -1,6 +1,6 @@
 <!-- 🚩 Banner Image (Hero Style) -->
 <p align="center">
-  <img src="images/banner.webp" alt="Banner" width="100%" />
+  <img src="images/task1.jpeg" alt="Banner" width="100%" />
 </p>
 
 # 👋🏽 Hey, I'm Reagan Otema
@@ -14,11 +14,11 @@
 
 ## 🧭 About Me
 
-I’m not just a student of code — I’m a builder of digital experiences.
+I’m not just a student of code, I’m a builder of digital experiences.
 
 Currently pursuing a degree in **Software Development** at **BYU–Idaho**, I work at the intersection of **design, logic, and purpose**. Whether I’m writing clean APIs or crafting beautiful interfaces, I’m driven by one goal:
 
-> _To create software that feels invisible — intuitive, powerful, and built to last.
+> To create software that feels invisible, intuitive, powerful, and built to last.
 
 ---
 
