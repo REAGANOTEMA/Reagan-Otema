@@ -89,14 +89,15 @@ I specialize in **React** and **Vue.js** for frontend magic, with **Node.js**, *
 ## 🎯 Highlights from the Journey
 
 <p align="center">
-  <img src="images/code.png" alt="Coding Session" width="42%" style="margin: 1%; border-radius: 10px;" />
-  <img src="images/code-team.webp" alt="Team Collaboration" width="42%" style="margin: 1%; border-radius: 10px;" />
+  <img src="images/code.png" alt="Coding Session" width="48%" style="margin: 1%; border-radius: 12px;" />
+  <img src="images/code-team.webp" alt="Team Collaboration" width="48%" style="margin: 1%; border-radius: 12px;" />
 </p>
 
 <p align="center">
-  <img src="images/team-meeting.jpg" alt="Developer Meeting" width="42%" style="border-radius: 10px;" />
-  <img src="images/byu.jpeg" alt="Students Team Collaboration" width="42%" style="margin: 1%; border-radius: 10px;" />
+  <img src="images/team-meeting.jpg" alt="Developer Meeting" width="48%" style="margin: 1%; border-radius: 12px;" />
+  <img src="images/byu.jpeg" alt="Students Team Collaboration" width="48%" style="margin: 1%; border-radius: 12px;" />
 </p>
+
 
 Each photo captures a moment: deep in code, in sync with a team, or chasing that breakthrough idea.  
 **This isn’t just my work — it’s my craft.**
